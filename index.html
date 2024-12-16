@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>POV Camera</title>
+</head>
+<body>
+  <h1>¡Captura tu foto!</h1>
+  <video id="video" autoplay></video>
+  <button id="snap">Tomar Foto</button>
+  <canvas id="canvas"></canvas>
+  <script>
+    const video = document.getElementById('video');
+    const canvas = document.getElementById('canvas');
+    const context = canvas.getContext('2d');
+    const snap = document.getElementById('snap');
+
+    // Acceder a la cámara
+    navigator.mediaDevices.getUserMedia({ video: true }).then((stream) => {
+      video.srcObject = stream;
+    });
+
+    // Tomar foto
+    snap.addEventListener('click', () => {
+      context.drawImage(video, 0, 0, canvas.width, canvas.height);
+      const photo = canvas.toDataURL('image/png'); // Convierte la imagen a formato PNG
+      // Aquí puedes enviarla a tu backend o Google Drive
+    });
+  </script>
+</body>
+</html>
