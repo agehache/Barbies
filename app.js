@@ -4,7 +4,7 @@ const uploadButton = document.getElementById('uploadButton');
 const statusText = document.getElementById('status');
 
 // URL del servidor donde se subirán los archivos
-const SERVER_URL = 'https://tu-servidor.com/upload';
+const SERVER_URL = 'https://drive.google.com/drive/u/0/folders/1JHu30KTBZAx1hHJCk7Oq8rwqOkE2KcJz';
 
 // Manejador de eventos para el botón "Subir"
 uploadButton.addEventListener('click', async () => {
