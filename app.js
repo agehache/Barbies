@@ -18,7 +18,7 @@ uploadButton.addEventListener('click', async () => {
   statusText.textContent = 'Subiendo archivo...';
 
   try {
-    // Crear un FormData y agregar el archivo
+    // Crear un FormData y agregar el archivo a qedoiewjwjedw
     const formData = new FormData();
     formData.append('file', file);
 
