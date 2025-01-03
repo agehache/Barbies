@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "metal-contact-444917-e3",
+  "private_key_id": "e54dd3b95be4dad97d8fec183af919fd212d848f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDYza6dk4Y7ECHh\nnPfs7W84C0AZ8BAtKWjFJ5nUVz0LxDg/JEnLV69Qpynf5m+Fl1tMUrIWG0cudJA8\nEFf58zc9cMExJaphs6yBiiviswh7BMYo6W1DavrtD+NCaC/gZR5P81GPhnDVielM\nXL/Aw0POdaAFRR2BqBKH0WqfFvn+fMYSVH6i0tv78Jh4eogrtCmDXsBbqD4fCbS+\nj1S3nrflHGlILQSv0cs8wNPa6J9uAwtU7yODTOA+4fmiaI3DW1f9Zb39mbzXQrw5\ntFa9/7rQwZilZDJDZSGKvfsvNfSebWb+JG54nZQGrOOEWzjK+2ke0t9fMolkYPUx\neT/3ZjAxAgMBAAECggEACo5hPSzssT2E2M5ix/d7ndf2ZAzrTLeicU8PT2Z8A3Gn\nZ3Ol4C/ByoSJJmy6619GQ74XC7qCScHFMBd/oRz1iJlP3su9swojkR8gKeabuBmw\naFeNSWYRF6/ZWedmxV9HDY+EXh+mqM8RO/WcJI+dYpUZmIgX+rMrS8+niF1/CKQF\nrtL/Hd+9/yva7EB1UGXk0doxfowTXFNNHPoRG3tIznGYwf2JaYNGGVUS9U+Jiksn\nKLmOQsPu1aRdExMGjHi+Vg/pDuU0qy0WhnGO+tXey6VnlGyHXOmHS7+dmBn8fUNy\n/UEGx8Ccn2YebYQd+z1WvQE1goJk4VDE8wMQP+6C7QKBgQD1dlJ6tpaWoyxhGtBW\nCNefEZGW4726iP8dr3srdikKK71VSKZVLvdLIsT40v7hjCO8tbSs6E/2QOVTo/l/\nWQiFTvYpKHDFJzeDC2yxJIa7JtlYB60zhYqQH4T3vJQ9lpAIXuWr9yYCoHnpwHgD\ny30hdpKxyIMoGn2iesxYbjO8+wKBgQDiHGUEvEWWYa7y7MG8nf28mx3XVpOjFSVZ\nqfriIb03fksBaz7Z8E/m0mieROzNYSJ/+HZQEkSWbl38Hv9VDeFRsbSQ1kMTakRe\nM88IpYS9wcxlX4f//Wa0nZyLxhma2fsIZz8T89ZdVPiqXwAMYA8rT11rTgIkQp2V\n9c/coCknwwKBgAy+3xuGHZ2mzWghZ04AWYnl9KRcIP7tnCmjcgbYtNrVWJh0FEb6\nEFczb/znn9qAV162JLKRwY0s43uLWSo2qk2ZwwhyFCD4n1ZLopI0LlbLdp+ujlzN\ng1tmd5YRkbT8+2+j1dMvGycpxArSNqkjyNSS/p0Cp2TOs1VbgP7agg8/AoGASPPy\nX/HC3f9MbBKZe5raGDVQDn9fiRm0gFaInNdX7oSv/Jg2oiiYDxhKKu6AHM+/StzG\nh5UtTf/0EPmLVkzxKuOUJ7sJz0TVJDPBE8AbsQHLSdXl0mFW9uV3cd2Lu1ujVBXD\n01M0Ec7toEKgiF2h505nDM0RgdOAdrblxwBh5vMCgYA+jyDOqUqsIq/LnDcSbpHO\nBKWUc8JiPaqJZ21Awv+wqV18UUzzqK3C0z+GzhFxQvhyk5921jSxsQ73WOcUNeGl\n87RMEM6D1zP9/sU4yY7i6uhjPL6VagVjV95spVn/iedJB5x9KV7T5uU9KGk/tFP3\nkRNh0yu5+w1kTOy0KR4UtA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "pov-uploader@metal-contact-444917-e3.iam.gserviceaccount.com",
+  "client_id": "111133039759041662080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pov-uploader%40metal-contact-444917-e3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
