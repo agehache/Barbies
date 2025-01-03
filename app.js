@@ -4,7 +4,8 @@ const uploadButton = document.getElementById('uploadButton');
 const statusText = document.getElementById('status');
 
 // URL del servidor donde se subirán los archivos
-const SERVER_URL = 'https://drive.google.com/drive/u/0/folders/1JHu30KTBZAx1hHJCk7Oq8rwqOkE2KcJz';
+//const SERVER_URL = 'https://drive.google.com/drive/u/0/folders/1JHu30KTBZAx1hHJCk7Oq8rwqOkE2KcJz';
+const SERVER_URL = 'http://127.0.0.1:5000/upload';  // URL local en tu máquina
 
 // Manejador de eventos para el botón "Subir"
 uploadButton.addEventListener('click', async () => {
@@ -18,7 +19,7 @@ uploadButton.addEventListener('click', async () => {
   statusText.textContent = 'Subiendo archivo...';
 
   try {
-    // Crear un FormData y agregar el archivo a qedoiewjwjedw
+    // Crear un FormData y agregar el archivo
     const formData = new FormData();
     formData.append('file', file);
 
