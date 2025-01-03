@@ -5,7 +5,7 @@ const statusText = document.getElementById('status');
 
 // URL del servidor donde se subirán los archivos
 //const SERVER_URL = 'https://drive.google.com/drive/u/0/folders/1JHu30KTBZAx1hHJCk7Oq8rwqOkE2KcJz';
-const SERVER_URL = 'http://192.168.1.54:5000/upload';  // URL local en tu máquina
+const SERVER_URL = 'http://127.0.0.1:5000/upload';  // URL local en tu máquina
 
 // Manejador de eventos para el botón "Subir"
 uploadButton.addEventListener('click', async () => {
