@@ -38,6 +38,7 @@ uploadButton.addEventListener('click', async () => {
     }
   } catch (error) {
     statusText.textContent = 'Error al subir el archivo.';
+    statusText.textContent = 'Error:' + error;
     console.error('Error:', error);
   }
 });
